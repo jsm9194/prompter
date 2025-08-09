@@ -1,4 +1,4 @@
-# Karaoke Prompt Demo (Windows-friendly, no external API)
+# Prompt Demo (Windows-friendly, no external API)
 
 노래방 기계처럼 대본이 한두 줄씩 진행되고, 마이크 인식에 맞춰 하이라이트가 이동하는 데모입니다.
 
@@ -24,5 +24,3 @@
 
 4) 실행
    python main.py
-
-기본은 dummy 모드입니다. whisper 모드로 바꾸려면 main.py 상단의 recognizer_backend 값을 whisper로 변경하세요.
